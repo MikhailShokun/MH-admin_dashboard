@@ -484,16 +484,16 @@ export const links = [
     title: 'Pages',
     links: [
       {
-        name: 'orders',
-        icon: <AiOutlineShoppingCart />,
+        name: 'users',
+        icon: <RiContactsLine />,
       },
       {
-        name: 'employees',
+        name: 'groups',
         icon: <IoMdContacts />,
       },
       {
-        name: 'customers',
-        icon: <RiContactsLine />,
+        name: 'orders',
+        icon: <AiOutlineShoppingCart />,
       },
     ],
   },
